@@ -1,0 +1,23 @@
+{
+	"name": "std-log",
+	"version": "0.0.1",
+	"description": "Basic logging library",
+	"main": "lib/std-log.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"log",
+		"logging",
+		"logger",
+		"standard",
+		"simple",
+		"basic"
+	],
+	"dependencies": { },
+	"repository": "https://github.com/jsen-/std-log",
+	"bugs": {
+		"url": "https://github.com/jsen-/std-log/issues"
+	},
+	"license": "MIT"
+}
